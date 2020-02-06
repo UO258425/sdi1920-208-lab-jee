@@ -30,6 +30,7 @@
 	<nav class="navbar navbar-default">
 	<div class="container-fluid">
 		<ul class="nav navbar-nav">
+			<li><a href="verBlog">Visita nuestro blog</a></li>
 			<li><a href="incluirEnCarrito">Carrito</a></li>
 			<li><a href="productos">Ver productos</a></li>
 			<li><a href="login.jsp">Login</a></li>
